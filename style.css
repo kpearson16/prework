@@ -1,0 +1,37 @@
+h2,h3, p, ul {
+    font-family: 'Courier New', Courier, monospace;
+}
+h2, h3 {
+    color: rgb(12, 93, 93);
+}
+p {
+    font-size: 14px;
+}
+ul {
+    font-style: italic;
+}
+body {
+    background-color: rgb(226, 205, 176);
+}
+a, p {
+    color: rgba(137, 50, 107, 0.798);
+}
+img, iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  ul {
+    font-size: 12px;
+  }
+  nav {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+table {
+    font-family: 'Courier New', Courier, monospace;
+}
+table {
+    font-size: 12px;
+    color: teal;
+}
